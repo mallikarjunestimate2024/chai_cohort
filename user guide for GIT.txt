@@ -1,4 +1,6 @@
 Hi this is the introduction guidelines GitHub use cases.
-and this guide will help you to understand git 
+and this guide will help you to understand 
 
-git add ke bad chaanges will be commited means first file i have comiited then i made changes and i need to commit them again add only does tracking start
+
+add - add tracking of file 
+commit - commit the purpose of revision in files 
