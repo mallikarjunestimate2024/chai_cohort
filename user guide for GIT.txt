@@ -1,1 +1,3 @@
 Hi this is the introduction guidelines GitHub use cases.
+and this guide will help you to understand git 
+
